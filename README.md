@@ -9,4 +9,5 @@ Age and Gender detector using Machine learning
 ## To run the model yourself:
 1. Clone the repository.
 2. Download the dataset from [here](https://www.kaggle.com/datasets/jangedoo/utkface-new)
-3. Open the [Gender and Age Detector]()
+3. Open the [Gender and Age Detector](https://github.com/kbansal15/Age_Sex_Detector/blob/main/Gender%20and%20Age%20Detector.ipynb)
+4. Run this notebook.
